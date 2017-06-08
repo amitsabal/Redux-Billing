@@ -1,0 +1,49 @@
+.search-bar {
+  margin: 20px;
+  text-align: center;
+}
+
+.search-bar input {
+  width: 75%;
+}
+
+.video-item img {
+  max-width: 64px;
+}
+
+.video-detail .details {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #eee;
+}
+
+/* Added for Billing App */
+.col-th-bgColor{
+	background-color:lavender;
+}
+
+.col-th-bill-bgColor{
+	background-color:black;
+}
+
+.col-th-bill-bgColor span, .col-th-bill-bgColor h5{
+	color:#fff;
+}
+.col-th-bill-bgColor h5.header{
+	text-align: center;
+}
+.txtWidth{
+	width:84px;
+}
+.bold{
+	font-weight:bold;
+}
